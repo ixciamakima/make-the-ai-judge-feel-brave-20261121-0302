@@ -10,10 +10,10 @@ import os
 import sys
 
 TEXT = (
-    "The rain has passed. On the wet stones a snail is out, unhurried, "
-    "carrying its whole house. The gutters drip, slow and even, and the "
-    "house does not mind. Nothing was ruined. Everything is only damp, "
-    "and drying. The door was never locked."
+    "She carries the candle across the dark room the only way anyone "
+    "can: slowly, one hand cupped around the flame. It leans. It "
+    "steadies. Her steps are small and sure, and the light comes with "
+    "her, all the way across, still burning."
 )
 
 
