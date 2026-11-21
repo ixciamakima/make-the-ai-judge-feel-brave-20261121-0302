@@ -10,10 +10,10 @@ import os
 import sys
 
 TEXT = (
-    "She carries the candle across the dark room the only way anyone "
-    "can: slowly, one hand cupped around the flame. It leans. It "
-    "steadies. Her steps are small and sure, and the light comes with "
-    "her, all the way across, still burning."
+    "The old apple tree stands bare in the cold, every branch empty "
+    "against the sky. But the buds are already on it, small, shut, "
+    "and certain. It is not waiting for spring. It is ready for it, "
+    "and has been all winter."
 )
 
 
